@@ -81,7 +81,7 @@
     "nsp": "2.6.3",
     "pre-git": "3.15.0",
     "prettier-standard": "5.1.0",
-    "semantic-release": "^6.3.6",
+    "semantic-release": "^24.2.0",
     "standard": "10.0.2"
   },
   "dependencies": {
